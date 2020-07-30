@@ -66,8 +66,8 @@ Website is down, email them.
 
 **Customer experience**
 Ordered via Email. 
-Slow to respond but its understandable as they have lots of enquiries
-email info@thehomebrewshop.co.za and get a pricelist.
+Slow to respond but its understandable as they have lots of enquiries.
+Email info@thehomebrewshop.co.za and get a pricelist.
 
 **Additional comments**
 They make there own Extract kits. So they have stock.
@@ -76,22 +76,3 @@ They do Brewing courses
 
 **Rating**
 3/5
-
-**Supplier**
-
-[National Food Products](http://thehomebrewshop.co.za/)
-
-**Customer experience**
-Ordered via Email. 
-Slow to respond but its understandable as they have lots of enquiries
-email info@thehomebrewshop.co.za and get a pricelist.
-
-**Additional comments**
-They make there own Extract kits. So they have stock.
-Very much a DYI feel about the shop.
-They do Brewing courses
-
-**Rating**
-3/5
-
-
