@@ -1,4 +1,5 @@
-#beer-brewers
+# beer-brewers
+
 Inspired by the dipsomaniacs on Entelect's beer-brewers slack channel, this resource keeps track of various craft beer suppliers.
 
 Feel free to add suppliers below, and try to follow the format. It is recommended to add resources alphabetically.
