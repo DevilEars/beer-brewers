@@ -19,11 +19,18 @@ Up for discussion, but for the time being please add:
 
 ## Suppliers
 *Supplier*
+
 [Beer Plus](https://www.beerplus.co.za/)
+
 *Customer experience*
+
 Have ordered from them before.
+
 *Additional comments*
+
 They have wort kits.
+
 *Rating*
+
 3/5 (baseline rating for illustration)
 
