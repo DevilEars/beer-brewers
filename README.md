@@ -11,26 +11,22 @@ Up for discussion, but for the time being please add:
  - optional additional comments
  - a rating out of an arbitrary 5
 
-*Supplier*
+**Supplier**
 []()
-*Customer experience*
-*Additional comments*
-*Rating*
+**Customer experience**
+**Additional comments**
+**Rating**
 
 ## Suppliers
-*Supplier*
-
+**Supplier**
 [Beer Plus](https://www.beerplus.co.za/)
 
-*Customer experience*
-
+**Customer experience**
 Have ordered from them before.
 
-*Additional comments*
-
+**Additional comments**
 They have wort kits.
 
-*Rating*
-
+**Rating**
 3/5 (baseline rating for illustration)
 
