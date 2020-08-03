@@ -94,3 +94,18 @@ They have some custom gear that they make themselves (mash tuns, wort chillers)
 **Rating**
 
 4/5
+
+### Supplier
+[Brewmart](https://brewmart.co.za)
+
+**Customer Experience**
+
+I spoke to them when buying a pot and they were very helpful and very knowledgeable of the products that they do sell.
+
+**Additional Comments**
+
+They stock parts to customize your brewing equipment to suit your flow like cam locks (quick disconnects), ball valves.
+
+**Rating**
+
+4/5
