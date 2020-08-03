@@ -24,7 +24,7 @@ Up for discussion, but for the time being please add:
 /5
 
 ## Suppliers
-**Supplier**
+### Supplier
 [Beer Plus](https://www.beerplus.co.za/)
 
 **Customer experience**
