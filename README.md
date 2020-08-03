@@ -33,7 +33,8 @@ Have ordered from them before.
 
 **Additional comments**
 
-They have wort kits.
+They have wort kits. 
+They sell oxygen scavenging bottle caps by the thousand for an awesome price.
 
 **Rating**
 
@@ -76,3 +77,20 @@ They do Brewing courses
 **Rating**
 
 3/5
+
+### Supplier
+[Beerguavara](http://beerguevara.com/)
+
+**Customer Experience**
+
+Can email them with any queries and they get back to you within that day.
+
+**Additional Comments**
+
+Not a fan of how they package their hops. It comes in a small transparent zip lock bag (foil back clear front). I prefer the vacuum sealed foil packaged hops.
+Their site is not HTTPS but they use a payment gateway that is secure.
+They have some custom gear that they make themselves (mash tuns, wort chillers)
+
+**Rating**
+
+4/5
