@@ -115,3 +115,23 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 **Rating**
 
 4/5
+
+### [Yeah Brew](http://https://yeahbrew.co.za)
+
+**Customer Experience**
+
+**Additional Comments**
+
+**Rating**
+
+?/5
+
+### [Ketel Kraal](https://ketelkraal.co.za)
+
+**Customer Experienc**
+
+**Additional Comments**
+
+**Rating**
+
+?/5
