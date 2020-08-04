@@ -128,7 +128,7 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 
 ### [Ketel Kraal](https://ketelkraal.co.za)
 
-**Customer Experienc**
+**Customer Experience**
 
 **Additional Comments**
 
