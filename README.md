@@ -25,8 +25,12 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 
 **Customer Experience**
 
-- Can email them with any queries and they get back to you within that day.
-
+ - Can email them with any queries and they get back to you within that day.
+ - Brewing accessories and hops are expensive
+ - Reasonably priced Malt
+ - Ship quickly
+ - They do online workshops for new all grain brewers
+ 
 **Additional Comments**
 
 - Not a fan of how they package their hops. It comes in a small transparent zip lock bag (foil back clear front). I prefer the vacuum sealed foil packaged hops.
@@ -87,3 +91,27 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 
 3/5
 
+### [Prohibition Home Brewers](https://prohibitionhomebrewers.co.za/shop/)
+
+**Customer experience**
+
+**Additional comments**
+
+**Rating**
+
+?/5
+
+### [Beer Lab](https://www.beerlab.co.za/)
+
+**Customer experience**
+
+ - Reasonable shipping times during peak
+ - Stock a wide variety of extract kits
+ 
+**Additional comments**
+ 
+ - Tend to be more expensive
+ 
+**Rating**
+
+4/5
