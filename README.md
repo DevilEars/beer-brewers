@@ -120,13 +120,28 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 
 **Customer Experience**
 
+- Decent did not try to rip me off on an STC1000 controller. 
+
+**Additional Comments**
+
+- They make their own fermenters out of stainless
+- They are in Midrand
+
+**Rating**
+
+4/5
+
+### [Ketel Kraal](https://ketelkraal.co.za)
+
+**Customer Experience**
+
 **Additional Comments**
 
 **Rating**
 
 ?/5
 
-### [Ketel Kraal](https://ketelkraal.co.za)
+### [Distillique](https://distillique.co.za)
 
 **Customer Experience**
 
