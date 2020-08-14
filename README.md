@@ -150,3 +150,23 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 **Rating**
 
 ?/5
+
+### [Beer Bros](http://beerbros.co.za)
+
+**Customer Experience**
+
+**Additional Comments**
+
+**Rating**
+
+?/5
+
+### [Build A Beer](https://buildabeer.co.za)
+
+**Customer Experience**
+
+**Additional Comments**
+
+**Rating**
+
+?/5
