@@ -170,3 +170,27 @@ Feel free to add suppliers below, and try to follow the format. It is recommende
 **Rating**
 
 ?/5
+
+### [Let's Brew](https://letsbrew.co.za/)
+
+**Customer Experience**
+
+**Additional Comments**
+
+?/5
+
+### [Benoni Brew](https://benonibrew.co.za)
+
+**Customer Experience**
+
+**Additional Comments**
+
+?/5
+
+### [Boer Bier](https://boerbier.com)
+
+**Customer Experience**
+
+**Additional Comments**
+
+?/5
