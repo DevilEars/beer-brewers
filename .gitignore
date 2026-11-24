@@ -88,3 +88,14 @@ cmake-build-*/
 *.tmp
 tmp/
 temp/
+
+# From DevilEars/repo-template v1 (merged)
+# TypeScript
+*.tsbuildinfo
+# Android / signing (from repo-template)
+keystore.properties
+*.jks
+*.keystore
+# Expo / native (harmless here; do not commit generated CNG trees)
+.expo
+.expo-shared

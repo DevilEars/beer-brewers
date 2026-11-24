@@ -1,19 +1,18 @@
-# Security policy
+# Security
 
-## Reporting a vulnerability
+Please report vulnerabilities privately: use GitHub's private vulnerability
+reporting on this repo if it is enabled, otherwise contact the owner
+([DevilEars](https://github.com/DevilEars)). Do not open a public issue for a
+live vulnerability.
 
-Please **do not** open a public issue, pull request, or discussion for a security vulnerability or a leaked secret.
+Do not commit secrets (`.env`, keystores, credentials).
 
-Report the issue privately:
+CI fails `npm audit --audit-level=high` on every lockfile, including
+devDependencies. Do not use `npm audit fix --force`. Upgrade the offending
+package on its own branch and review breaking changes first.
 
-1. Use GitHub's private vulnerability reporting for this repository if it is available (the **Security** tab, or **Report a vulnerability** on the repo).
-2. Otherwise, contact the repository owner ([DevilEars](https://github.com/DevilEars)) through a private GitHub channel and include enough detail to reproduce the issue.
+This repository also runs Gitleaks on pushes and pull requests as a
+secret-scanning fallback that does not depend on GitHub Advanced Security.
 
-We will try to acknowledge a valid report and let you know once a fix is in progress or has been released.
-
-## Secrets in this repository
-
-Do not commit API keys, tokens, passwords, private keys, or `.env` files.
-
-- Pull requests are scanned with Gitleaks in GitHub Actions.
-- If you accidentally commit a secret, assume it is compromised: rotate it first, then follow the reporting steps above so the history can be cleaned up.
+If you accidentally commit a secret, assume it is compromised: rotate it
+first, then report it privately so the history can be cleaned up.
