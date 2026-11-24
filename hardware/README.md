@@ -10,7 +10,10 @@ A landscape survey (formats, notable software, hardware) is in [`docs/research/l
 
 | Build | Status | Notes |
 |---|---|---|
-| [DIY electric all-in-one](builds/diy-all-in-one/) | Research and design only (brief dated 24 November 2026) | Single-vessel recirculating mash (DigiBoil + DigiMash + Brautomat32). See that folder's README for safety notes, BOM, and shopping list. Nothing in that brief should be treated as a wiring certificate. |
+| [DIY electric all-in-one](builds/diy-all-in-one/) | Research and design only (prices 24 November 2026) | Three plans for a 10–20 L single-vessel recirculating mash on a 16 A / 230 V socket, each with a spec sheet, BOM and shopping list. Nothing here is a wiring certificate. |
+| ↳ [Lean](builds/diy-all-in-one/lean/spec.md) | Design, ready for review | DigiBoil factory controller + DigiMash + 6 W pump + DIY copper coil. No mains modification. Found prices R 9,255.10. |
+| ↳ [Comfortable](builds/diy-all-in-one/comfortable/spec.md) | Design, ready for review | DigiBoil + DigiMash + 25 W pump + counterflow chiller + Brautomat32 / 40 A SSR. Electrician sign-off. Found prices R 12,817.12. |
+| ↳ [From scratch](builds/diy-all-in-one/from-scratch/spec.md) | **Design for review, not validated** | Fabricated malt pipe, 2.2 kW weldless element, custom ESP32 control PCB (KiCad-ready netlist table). Found prices R 9,461.56 plus unpriced element, sheet and PCB. |
 
 ## Planned index sections
 

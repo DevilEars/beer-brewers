@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="720" viewBox="0 0 1220 720" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">From-scratch enclosure layout</title>
+<desc id="d">Top view of the IP65 240 by 160 by 90 millimetre enclosure: 16 A two-pole MCB and PE bar on DIN rail, control PCB, SSR mounted on an external heatsink, four M20 glands, mains and low-voltage segregation.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2933"/></marker>
+<marker id="arrW" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2F80ED"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E3A21A"/></marker>
+<marker id="arrM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C53030"/></marker>
+<marker id="arrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B46C1"/></marker>
+<marker id="dimA" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,2 L5,5 L0,8" fill="none" stroke="#52606D" stroke-width="1.2"/></marker>
+<pattern id="perf" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#D9DEE3"/><circle cx="4" cy="4" r="1.4" fill="#8A99A6"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA5B1" stroke-width="1"/></pattern>
+<linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#B8C2CC"/><stop offset="0.45" stop-color="#EEF1F4"/><stop offset="1" stop-color="#9AA5B1"/></linearGradient>
+<linearGradient id="wort" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#D98E04"/></linearGradient>
+</defs>
+<rect width="1220" height="720" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1220" height="64" rx="0" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="64" width="1220" height="4" rx="0" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="24" y="30" font-size="20" font-weight="800" text-anchor="start" fill="#FFFFFF">From-scratch plan · enclosure layout (top view, scale 3:1 → px)</text>
+<text x="24" y="52" font-size="12" font-weight="400" text-anchor="start" fill="#CBD2D9">Communica ENL241610P 240 × 160 × 90 IP65 · mains on the left, low voltage on the right · glands on the bottom face only</text>
+<rect x="1062.06" y="22" width="133.94" height="21" rx="10.5" fill="#E3A21A" stroke="none" stroke-width="1.5"/>
+<text x="1129.03" y="35.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">DESIGN FOR REVIEW</text>
+<rect x="120" y="110" width="720" height="480" rx="12" fill="#FFFFFF" stroke="#1F2933" stroke-width="3"/>
+<line x1="120" y1="96" x2="840" y2="96" stroke="#52606D" stroke-width="1"/>
+<line x1="120" y1="96" x2="840" y2="96" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="480.0" y="91.0" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">240</text>
+<line x1="98" y1="110" x2="98" y2="590" stroke="#52606D" stroke-width="1"/>
+<line x1="98" y1="110" x2="98" y2="590" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="92.0" y="350.0" font-size="11" fill="#52606D" text-anchor="middle" transform="rotate(-90 92.0 350.0)">160</text>
+<rect x="132" y="122" width="354" height="456" rx="8" fill="#FDE2E1" fill-opacity="0.5" stroke="#C53030" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="144" y="142" font-size="12" font-weight="700" text-anchor="start" fill="#C53030">230 V</text>
+<rect x="492" y="122" width="336" height="456" rx="8" fill="#EAE2FB" fill-opacity="0.5" stroke="#6B46C1" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="504" y="142" font-size="12" font-weight="700" text-anchor="start" fill="#6B46C1">LOW VOLTAGE</text>
+<line x1="483" y1="118" x2="483" y2="582" stroke="#1F2933" stroke-width="2" stroke-dasharray="2 4"/>
+<text x="488" y="574" font-size="10" font-weight="400" text-anchor="start" fill="#52606D">segregation ≥ 8 mm / barrier</text>
+<rect x="140" y="160" width="300" height="12" rx="0" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<text x="140" y="156" font-size="10" font-weight="400" text-anchor="start" fill="#52606D">35 mm DIN rail, 100 long</text>
+<rect x="150" y="174" width="108" height="70" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="204.0" y="194" font-size="12" font-weight="700" text-anchor="middle" fill="#1F2933">MCB 2P 16 A</text>
+<text x="204.0" y="212" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">electrician</text>
+<rect x="274" y="174" width="150" height="40" rx="8" fill="#FFFFFF" stroke="#2F855A" stroke-width="1.5"/>
+<text x="349.0" y="199.0" font-size="12" font-weight="700" text-anchor="middle" fill="#2F855A">PE bar</text>
+<rect x="150" y="270" width="165" height="110" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="232.5" y="290" font-size="12" font-weight="700" text-anchor="middle" fill="#1F2933">SSR 40 A</text>
+<text x="232.5" y="308" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">KSI240D40-L</text>
+<text x="232.5" y="323" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">bolted through wall to</text>
+<text x="232.5" y="338" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">external heatsink KHS-1B</text>
+<rect x="70" y="260" width="50" height="130" rx="0" fill="url(#hatch)" stroke="#52606D" stroke-width="1.5" stroke-dasharray="5 3"/>
+<text x="64" y="300" font-size="10" font-weight="400" text-anchor="end" fill="#52606D">heatsink</text>
+<text x="64" y="313" font-size="10" font-weight="400" text-anchor="end" fill="#52606D">outside,</text>
+<text x="64" y="326" font-size="10" font-weight="400" text-anchor="end" fill="#52606D">gasketed</text>
+<text x="64" y="339" font-size="10" font-weight="400" text-anchor="end" fill="#52606D">cut-out</text>
+<rect x="380.0" y="260" width="300" height="240" rx="6" fill="#DDF3E4" fill-opacity="0.85" stroke="#2F855A" stroke-width="1.5"/>
+<text x="390.0" y="282" font-size="11" font-weight="700" text-anchor="start" fill="#2F855A">Control PCB 100 × 80 (spans both zones; slot at the boundary)</text>
+<rect x="392.0" y="300" width="110" height="90" rx="4" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="400.0" y="318" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">J1 L/N in</text>
+<text x="400.0" y="333" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">F1 T1A · RV1</text>
+<text x="400.0" y="348" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">U1 LH05 5 V</text>
+<text x="400.0" y="363" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">K1 pump relay</text>
+<text x="400.0" y="378" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">F2 T1A · J2 out</text>
+<rect x="510.0" y="296" width="8" height="98" rx="0" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<text x="514.0" y="408" font-size="9" font-weight="400" text-anchor="middle" fill="#1F2933">slot</text>
+<rect x="530.0" y="296" width="130" height="70" rx="4" fill="#EAE2FB" stroke="#6B46C1" stroke-width="1.5"/>
+<text x="595.0" y="326" font-size="11" font-weight="700" text-anchor="middle" fill="#6B46C1">ESP32 D1 Mini</text>
+<text x="595.0" y="342" font-size="9" font-weight="400" text-anchor="middle" fill="#52606D">on sockets · USB faces up</text>
+<text x="530.0" y="382" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">J3 SSR ctl · J4 DS18B20</text>
+<text x="530.0" y="396" font-size="10" font-weight="400" text-anchor="start" fill="#1F2933">J5 MAX31865 · BZ1 · LED</text>
+<circle cx="170" cy="590" r="14" fill="#D9DEE3" stroke="#1F2933" stroke-width="2"/>
+<circle cx="170" cy="590" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="170" y="624" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2933">G1 mains in</text>
+<circle cx="310" cy="590" r="14" fill="#D9DEE3" stroke="#1F2933" stroke-width="2"/>
+<circle cx="310" cy="590" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="310" y="624" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2933">G2 element out</text>
+<circle cx="450" cy="590" r="14" fill="#D9DEE3" stroke="#1F2933" stroke-width="2"/>
+<circle cx="450" cy="590" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="450" y="624" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2933">G3 pump out</text>
+<circle cx="680" cy="590" r="14" fill="#D9DEE3" stroke="#1F2933" stroke-width="2"/>
+<circle cx="680" cy="590" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="680" y="624" font-size="11" font-weight="700" text-anchor="middle" fill="#1F2933">G4 sensor (LV)</text>
+<path d="M170,576 L170,410 L180,246" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M240,380 L310,440 L310,576" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M440.0,392 L450,440 L450,576" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M680,576 L680,440 L580.0,400" fill="none" stroke="#6B46C1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M530.0,350 L355,350 L315,310" fill="none" stroke="#6B46C1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrL)"/>
+<rect x="880" y="110" width="310" height="480" rx="10" fill="#FFFFFF" stroke="#E4E7EB" stroke-width="1.5"/>
+<text x="896" y="136" font-size="14" font-weight="800" text-anchor="start" fill="#1F2933">Layout rules (to review)</text>
+<text x="896" y="162" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">Glands on the bottom face only;</text>
+<text x="896" y="181" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">nothing enters from the top.</text>
+<text x="896" y="200" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">Mains left, LV right. The only LV</text>
+<text x="896" y="219" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">run into the 230 V zone is the</text>
+<text x="896" y="238" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">sleeved SSR control pair.</text>
+<text x="896" y="257" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">PE: every metal part, the element</text>
+<text x="896" y="276" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">earth and pump earth land on the</text>
+<text x="896" y="295" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">PE bar with ring lugs; star layout.</text>
+<text x="896" y="314" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">SSR heat: ≈12 W at 10 A. Heatsink</text>
+<text x="896" y="333" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">outside the box, SSR inside, through</text>
+<text x="896" y="352" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">a gasketed cut-out; IP rating of the</text>
+<text x="896" y="371" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">cut-out must be checked.</text>
+<text x="896" y="390" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">Ferrules on all stranded ends.</text>
+<text x="896" y="409" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">Cable sizes, MCB curve and RCD</text>
+<text x="896" y="428" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">coordination: electrician decides.</text>
+<text x="896" y="447" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">Lid label: '230 V – isolate before</text>
+<text x="896" y="466" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">opening' + build date + rev.</text>
+<text x="1204" y="708" font-size="10" text-anchor="end" fill="#52606D">DevilEars/beer-brewers · DIY all-in-one · design drawing, not a construction certificate · MIT</text>
+</svg>
