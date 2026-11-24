@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+
+  # When the recipe app adds a package.json, uncomment and adjust the directory:
+  # - package-ecosystem: npm
+  #   directory: /apps/recipe-app
+  #   schedule:
+  #     interval: weekly
+
+  # When Python dependencies are added (requirements.txt, pipenv, or poetry),
+  # uncomment and adjust the directory:
+  # - package-ecosystem: pip
+  #   directory: /
+  #   schedule:
+  #     interval: weekly

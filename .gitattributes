@@ -1,0 +1,27 @@
+# Default to LF in the repo (historical README commits noted CRLF display issues)
+* text=auto eol=lf
+
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.sh text eol=lf
+*.xml text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tgz binary
+*.whl binary
