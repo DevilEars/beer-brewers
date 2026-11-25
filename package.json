@@ -1,0 +1,13 @@
+{
+  "name": "beer-brewers",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "typecheck": "node --check tests/repo-integrity.test.js",
+    "test": "node --test tests/repo-integrity.test.js",
+    "audit": "npm audit --audit-level=high"
+  }
+}

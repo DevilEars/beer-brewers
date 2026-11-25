@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Lean plan system layout</title>
+<desc id="d">DigiBoil with DigiMash malt pipe, 6 W pump recirculating through a throttle valve, DIY copper immersion coil, both appliances on an in-line 30 mA RCD.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2933"/></marker>
+<marker id="arrW" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2F80ED"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E3A21A"/></marker>
+<marker id="arrM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C53030"/></marker>
+<marker id="arrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B46C1"/></marker>
+<marker id="dimA" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,2 L5,5 L0,8" fill="none" stroke="#52606D" stroke-width="1.2"/></marker>
+<pattern id="perf" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#D9DEE3"/><circle cx="4" cy="4" r="1.4" fill="#8A99A6"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA5B1" stroke-width="1"/></pattern>
+<linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#B8C2CC"/><stop offset="0.45" stop-color="#EEF1F4"/><stop offset="1" stop-color="#9AA5B1"/></linearGradient>
+<linearGradient id="wort" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#D98E04"/></linearGradient>
+</defs>
+<rect width="1200" height="720" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="64" rx="0" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="64" width="1200" height="4" rx="0" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="24" y="30" font-size="20" font-weight="800" text-anchor="start" fill="#FFFFFF">Lean plan · system layout</text>
+<text x="24" y="52" font-size="12" font-weight="400" text-anchor="start" fill="#CBD2D9">Factory DigiBoil controller · 6 W recirculation pump · DIY 3/8 in copper immersion coil · no mains modification</text>
+<rect x="1130.72" y="22" width="45.28" height="21" rx="10.5" fill="#2F855A" stroke="none" stroke-width="1.5"/>
+<text x="1153.3600000000001" y="35.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">LEAN</text>
+<rect x="286" y="224.0" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="560" y="224.0" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="300" y="170" width="260" height="300" rx="6" fill="url(#steel)" stroke="#1F2933" stroke-width="2"/>
+<rect x="304" y="254.0" width="252" height="212.0" rx="3" fill="url(#wort)" fill-opacity="0.85" stroke="none" stroke-width="1.5"/>
+<rect x="294" y="160" width="272" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="416.0" y="150" width="28" height="10" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="331.2" y="206.0" width="197.6" height="186.0" rx="3" fill="url(#perf)" fill-opacity="0.9" stroke="#52606D" stroke-width="1.5"/>
+<line x1="331.2" y1="392.0" x2="528.8" y2="392.0" stroke="#1F2933" stroke-width="2"/>
+<path d="M336.4,434.0 L344.2,440.0 L359.8,428.0 L375.4,440.0 L391.0,428.0 L406.6,440.0 L422.2,428.0 L437.8,440.0 L453.40000000000003,428.0 L469.0,440.0 L484.6,428.0 L500.20000000000005,440.0 L515.8,428.0 L528.8,434.0" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<rect x="400.0" y="444" width="60" height="18" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="430.0" y="457" font-size="10" font-weight="700" text-anchor="middle" fill="#7CF29A">65.0 °C</text>
+<rect x="560" y="442" width="22" height="8" rx="2" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="586" cy="446" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="430.0" y="500" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">35 L DigiBoil 2400 W (use 25–30 L)</text>
+<text x="430.0" y="518" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">DigiMash malt pipe · factory controller 0–140 °C</text>
+<circle cx="660" cy="470" r="30" fill="#DCEBFD" stroke="#1F2933" stroke-width="2"/>
+<text x="660" y="475" font-size="16" font-weight="800" text-anchor="middle" fill="#2F80ED">P</text>
+<text x="660" y="522" font-size="12" font-weight="700" text-anchor="middle" fill="#1F2933">6 W mag-drive pump</text>
+<text x="660" y="538" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">below the tap · primed · never dry</text>
+<path d="M592,446 C640,446 600,470 630,470" fill="none" stroke="#E3A21A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrA)"/>
+<path d="M660,440 L660,230 Q660,130 470.0,140 L450.0,200" fill="none" stroke="#E3A21A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrA)"/>
+<rect x="646" y="340" width="28" height="22" rx="4" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<line x1="640" y1="351" x2="680" y2="351" stroke="#1F2933" stroke-width="3"/>
+<text x="686" y="348" font-size="12" font-weight="700" text-anchor="start" fill="#1F2933">1/2 in ball valve</text>
+<text x="686" y="364" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">throttle so the bed does not compact</text>
+<text x="686" y="230" font-size="12" font-weight="700" text-anchor="start" fill="#1F2933">12.5 mm silicone return</text>
+<text x="686" y="246" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">over the rim into the malt pipe</text>
+<rect x="900" y="150" width="270" height="250" rx="10" fill="#FFFFFF" stroke="#E4E7EB" stroke-width="1.5"/>
+<text x="916" y="176" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">After the boil: immersion coil</text>
+<ellipse cx="1035" cy="230" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="244" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="258" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="272" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="286" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="300" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="314" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="328" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<ellipse cx="1035" cy="342" rx="80" ry="8" fill="none" stroke="#B8733A" stroke-width="3"/>
+<line x1="970" y1="230" x2="970" y2="194" stroke="#B8733A" stroke-width="3"/>
+<line x1="1100" y1="342" x2="1100" y2="194" stroke="#B8733A" stroke-width="3"/>
+<path d="M970,194 L940,194" fill="none" stroke="#2F80ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrW)"/>
+<path d="M1140,194 L1104,194" fill="none" stroke="#2F80ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="916" y="368" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">~10 m of 3/8 in soft copper, Ø 260 mm</text>
+<text x="916" y="384" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">sanitise in the last 15 min of the boil</text>
+<rect x="40" y="620" width="190" height="64" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="135.0" y="640" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">Wall socket</text>
+<text x="135.0" y="658" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">SANS 164-1 16 A · DB ≤30 mA</text>
+<rect x="270" y="620" width="190" height="64" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="365.0" y="640" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">In-line RCD</text>
+<text x="365.0" y="658" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">16 A / 30 mA · electrician-fitted</text>
+<rect x="500" y="620" width="190" height="64" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="595.0" y="640" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">2-way SANS 164-1 outlet</text>
+<text x="595.0" y="658" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">DigiBoil + pump only</text>
+<line x1="230" y1="652" x2="268" y2="652" stroke="#C53030" stroke-width="3" marker-end="url(#arrM)"/>
+<line x1="460" y1="652" x2="498" y2="652" stroke="#C53030" stroke-width="3" marker-end="url(#arrM)"/>
+<path d="M560,620 L560,580 L250,580 L250,450 L298,450" fill="none" stroke="#C53030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#arrM)"/>
+<path d="M690,652 L770,652 L770,470 L692,470" fill="none" stroke="#C53030" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 4" marker-end="url(#arrM)"/>
+<text x="256" y="{442}" font-size="10" font-weight="400" text-anchor="start" fill="#C53030">kettle cord</text>
+<text x="776" y="550" font-size="10" font-weight="400" text-anchor="start" fill="#C53030">pump cord</text>
+<rect x="900" y="430" width="270" height="110" rx="10" fill="#DDF3E4" stroke="#2F855A" stroke-width="1.5"/>
+<text x="916" y="456" font-size="13" font-weight="700" text-anchor="start" fill="#2F855A">Why lean is the safest start</text>
+<text x="916" y="478" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">• No one opens the DigiBoil's mains wiring</text>
+<text x="916" y="496" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">• Two factory appliances, one RCD</text>
+<text x="916" y="514" font-size="11.5" font-weight="400" text-anchor="start" fill="#1F2933">• Manual mash steps on the factory display</text>
+<text x="1184" y="708" font-size="10" text-anchor="end" fill="#52606D">DevilEars/beer-brewers · DIY all-in-one · design drawing, not a construction certificate · MIT</text>
+</svg>

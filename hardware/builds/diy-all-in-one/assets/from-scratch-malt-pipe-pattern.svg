@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">From-scratch flat patterns and immersion coil</title>
+<desc id="d">Malt-pipe wall flat pattern 1035 by 240 mm with rivet and leg holes, top plate disc 316 mm, and the 3/8 inch copper immersion coil.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2933"/></marker>
+<marker id="arrW" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2F80ED"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E3A21A"/></marker>
+<marker id="arrM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C53030"/></marker>
+<marker id="arrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B46C1"/></marker>
+<marker id="dimA" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,2 L5,5 L0,8" fill="none" stroke="#52606D" stroke-width="1.2"/></marker>
+<pattern id="perf" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#D9DEE3"/><circle cx="4" cy="4" r="1.4" fill="#8A99A6"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA5B1" stroke-width="1"/></pattern>
+<linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#B8C2CC"/><stop offset="0.45" stop-color="#EEF1F4"/><stop offset="1" stop-color="#9AA5B1"/></linearGradient>
+<linearGradient id="wort" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#D98E04"/></linearGradient>
+</defs>
+<rect width="1200" height="800" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="64" rx="0" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="64" width="1200" height="4" rx="0" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="24" y="30" font-size="20" font-weight="800" text-anchor="start" fill="#FFFFFF">From-scratch plan · flat patterns + coil</text>
+<text x="24" y="52" font-size="12" font-weight="400" text-anchor="start" fill="#CBD2D9">Laser-cut or hand-cut from 1.0 mm perforated 304 · rivet holes Ø4.9 · all dimensions in mm</text>
+<rect x="1103.44" y="22" width="72.56" height="21" rx="10.5" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="1139.72" y="35.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">CUT LIST</text>
+<rect x="40" y="120" width="983.25" height="228.0" rx="0" fill="url(#perf)" stroke="#1F2933" stroke-width="2"/>
+<rect x="999.5" y="120" width="23.75" height="228.0" rx="0" fill="url(#hatch)" stroke="#1F2933" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="51.4" cy="139.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="139.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="51.4" cy="177.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="177.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="51.4" cy="215.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="215.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="51.4" cy="253.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="253.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="51.4" cy="291.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="291.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="51.4" cy="329.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1011.85" cy="329.0" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="125.5" cy="333.75" r="3" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<circle cx="68.5" cy="340.4" r="3.5" fill="#FFFFFF" stroke="#B8733A" stroke-width="1.5"/>
+<circle cx="445.3333333333333" cy="333.75" r="3" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<circle cx="388.3333333333333" cy="340.4" r="3.5" fill="#FFFFFF" stroke="#B8733A" stroke-width="1.5"/>
+<circle cx="765.1666666666666" cy="333.75" r="3" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<circle cx="708.1666666666666" cy="340.4" r="3.5" fill="#FFFFFF" stroke="#B8733A" stroke-width="1.5"/>
+<circle cx="279.875" cy="131.4" r="4" fill="#FFFFFF" stroke="#2F80ED" stroke-width="1.5"/>
+<circle cx="759.625" cy="131.4" r="4" fill="#FFFFFF" stroke="#2F80ED" stroke-width="1.5"/>
+<line x1="40" y1="370.0" x2="1023.25" y2="370.0" stroke="#52606D" stroke-width="1"/>
+<line x1="40" y1="370.0" x2="1023.25" y2="370.0" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="531.625" y="365.0" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">1035 = π × 321 (mean Ø) + 25 overlap</text>
+<line x1="22" y1="120" x2="22" y2="348.0" stroke="#52606D" stroke-width="1"/>
+<line x1="22" y1="120" x2="22" y2="348.0" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="16.0" y="234.0" font-size="11" fill="#52606D" text-anchor="middle" transform="rotate(-90 16.0 234.0)">240</text>
+<text x="1011.25" y="112" font-size="10" font-weight="400" text-anchor="end" fill="#52606D">25 overlap</text>
+<circle cx="46" cy="404.0" r="5" fill="#FFFFFF" stroke="#1F2933" stroke-width="2"/>
+<text x="58" y="408.0" font-size="11" font-weight="400" text-anchor="start" fill="#1F2933">seam rivets ×12 (2 rows × 6, 40 pitch)</text>
+<circle cx="296" cy="404.0" r="5" fill="#FFFFFF" stroke="#C53030" stroke-width="2"/>
+<text x="308" y="408.0" font-size="11" font-weight="400" text-anchor="start" fill="#1F2933">false-bottom stops ×3 (rivet, 15 up)</text>
+<circle cx="546" cy="404.0" r="5" fill="#FFFFFF" stroke="#B8733A" stroke-width="2"/>
+<text x="558" y="408.0" font-size="11" font-weight="400" text-anchor="start" fill="#1F2933">leg holes Ø8.5 ×3, 8 from bottom</text>
+<circle cx="796" cy="404.0" r="5" fill="#FFFFFF" stroke="#2F80ED" stroke-width="2"/>
+<text x="808" y="408.0" font-size="11" font-weight="400" text-anchor="start" fill="#1F2933">handle holes Ø6.5 ×2, opposite</text>
+<circle cx="200" cy="590" r="104.28" fill="url(#perf)" stroke="#1F2933" stroke-width="2"/>
+<circle cx="200" cy="590" r="9.6" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5"/>
+<line x1="95.72" y1="708" x2="304.28" y2="708" stroke="#52606D" stroke-width="1"/>
+<line x1="95.72" y1="708" x2="304.28" y2="708" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="200.0" y="703.0" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">Ø316 top plate</text>
+<text x="200" y="594" font-size="9" font-weight="400" text-anchor="middle" fill="#1F2933">Ø22</text>
+<text x="330" y="520" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">Top plate</text>
+<text x="330" y="540" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">Sits on the grain bed;</text>
+<text x="330" y="556" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">spreads return wort.</text>
+<text x="330" y="572" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">Deburr every edge.</text>
+<ellipse cx="760" cy="590" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="606" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="622" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="638" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="654" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="670" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="686" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="702" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="718" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<ellipse cx="760" cy="734" rx="104.0" ry="10" fill="none" stroke="#B8733A" stroke-width="4"/>
+<line x1="656" y1="590" x2="656" y2="480" stroke="#B8733A" stroke-width="4"/>
+<line x1="864" y1="734" x2="864" y2="480" stroke="#B8733A" stroke-width="4"/>
+<path d="M656,480 Q656,460 630,460" fill="none" stroke="#B8733A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M864,480 Q864,460 890,460" fill="none" stroke="#B8733A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M570,460 L626,460" fill="none" stroke="#2F80ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrW)"/>
+<path d="M894,460 L950,460" fill="none" stroke="#2F80ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrW)"/>
+<text x="570" y="448" font-size="11" font-weight="400" text-anchor="start" fill="#2F80ED">cold in</text>
+<text x="910" y="448" font-size="11" font-weight="400" text-anchor="start" fill="#2F80ED">warm out → drain</text>
+<line x1="656" y1="770" x2="864" y2="770" stroke="#52606D" stroke-width="1"/>
+<line x1="656" y1="770" x2="864" y2="770" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="760.0" y="765.0" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">Ø260 coil (fits inside Ø322 pipe position)</text>
+<line x1="910" y1="590" x2="910" y2="734" stroke="#52606D" stroke-width="1"/>
+<line x1="910" y1="590" x2="910" y2="734" stroke="#52606D" stroke-width="1" marker-start="url(#dimA)" marker-end="url(#dimA)"/>
+<text x="904.0" y="662.0" font-size="11" fill="#52606D" text-anchor="middle" transform="rotate(-90 904.0 662.0)">≈150</text>
+<text x="940" y="620" font-size="13" font-weight="700" text-anchor="start" fill="#1F2933">3/8 in soft copper, ≈ 10 m</text>
+<text x="940" y="640" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">≈ 12 turns on a Ø250 former</text>
+<text x="940" y="656" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">spring bender at the risers</text>
+<text x="940" y="672" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">risers 600 mm above the rim</text>
+<text x="940" y="688" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">coil sits on the kettle floor</text>
+<text x="940" y="704" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">after the malt pipe is lifted</text>
+<text x="1184" y="788" font-size="10" text-anchor="end" fill="#52606D">DevilEars/beer-brewers · DIY all-in-one · design drawing, not a construction certificate · MIT</text>
+</svg>

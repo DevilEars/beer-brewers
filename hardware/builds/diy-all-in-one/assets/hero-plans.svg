@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Three DIY all-in-one brewing rig plans</title>
+<desc id="d">Lean, comfortable and from-scratch plans compared: controller, effort and found-price cost.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2933"/></marker>
+<marker id="arrW" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2F80ED"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E3A21A"/></marker>
+<marker id="arrM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C53030"/></marker>
+<marker id="arrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B46C1"/></marker>
+<marker id="dimA" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,2 L5,5 L0,8" fill="none" stroke="#52606D" stroke-width="1.2"/></marker>
+<pattern id="perf" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#D9DEE3"/><circle cx="4" cy="4" r="1.4" fill="#8A99A6"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA5B1" stroke-width="1"/></pattern>
+<linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#B8C2CC"/><stop offset="0.45" stop-color="#EEF1F4"/><stop offset="1" stop-color="#9AA5B1"/></linearGradient>
+<linearGradient id="wort" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#D98E04"/></linearGradient>
+</defs>
+<rect width="1200" height="440" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="64" rx="0" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="64" width="1200" height="4" rx="0" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="24" y="30" font-size="20" font-weight="800" text-anchor="start" fill="#FFFFFF">DIY all-in-one brewing rig · three plans</text>
+<text x="24" y="52" font-size="12" font-weight="400" text-anchor="start" fill="#CBD2D9">Small batch 10–20 L · South Africa 230 V / 50 Hz · one SANS 164-1 16 A socket on ≤30 mA earth leakage</text>
+<rect x="1035.24" y="22" width="140.76" height="21" rx="10.5" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="1105.62" y="35.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">PRICES 24 NOV 2026</text>
+<rect x="24" y="92" width="368" height="320" rx="14" fill="#FFFFFF" stroke="#E4E7EB" stroke-width="1.5"/>
+<rect x="24" y="92" width="368" height="6" rx="3" fill="#2F855A" stroke="none" stroke-width="1.5"/>
+<rect x="44" y="114" width="45.28" height="21" rx="10.5" fill="#2F855A" stroke="none" stroke-width="1.5"/>
+<text x="66.64" y="127.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">LEAN</text>
+<text x="44" y="162" font-size="17" font-weight="800" text-anchor="start" fill="#1F2933">Stock-controller rig</text>
+<rect x="268" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="352" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="282" y="134" width="70" height="74" rx="6" fill="url(#steel)" stroke="#1F2933" stroke-width="2"/>
+<rect x="286" y="154.72" width="62" height="49.28" rx="3" fill="url(#wort)" fill-opacity="0.85" stroke="none" stroke-width="1.5"/>
+<rect x="276" y="124" width="82" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="303.0" y="114" width="28" height="10" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="290.4" y="142.88" width="53.2" height="45.88" rx="3" fill="url(#perf)" fill-opacity="0.9" stroke="#52606D" stroke-width="1.5"/>
+<line x1="290.4" y1="188.76" x2="343.59999999999997" y2="188.76" stroke="#1F2933" stroke-width="2"/>
+<path d="M291.8,199.12 L293.9,205.12 L298.1,193.12 L302.3,205.12 L306.5,193.12 L310.7,205.12 L314.9,193.12 L319.1,205.12 L323.3,193.12 L327.5,205.12 L331.7,193.12 L335.9,205.12 L340.1,193.12 L343.6,199.12" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<rect x="287.0" y="182" width="60" height="18" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="317.0" y="195" font-size="10" font-weight="700" text-anchor="middle" fill="#7CF29A">65.0 °C</text>
+<ellipse cx="317.0" cy="148.8" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="153.98000000000002" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="159.16000000000003" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="164.34" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="169.52" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="174.70000000000002" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<ellipse cx="317.0" cy="179.88000000000002" rx="25.2" ry="6" fill="none" stroke="#B8733A" stroke-width="2.5"/>
+<rect x="352" y="180" width="22" height="8" rx="2" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="378" cy="184" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="44" y="232" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• DigiBoil 2400 W + DigiMash</text>
+<text x="44" y="257" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• 6 W pump · DIY copper coil</text>
+<text x="44" y="282" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Factory controller, no mains mods</text>
+<text x="44" y="307" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Effort: a weekend</text>
+<line x1="44" y1="342" x2="372" y2="342" stroke="#E4E7EB" stroke-width="1.5"/>
+<text x="44" y="370" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">Found-price total (VAT incl.)</text>
+<text x="44" y="396" font-size="24" font-weight="800" text-anchor="start" fill="#2F855A">R 9,255</text>
+<rect x="416" y="92" width="368" height="320" rx="14" fill="#FFFFFF" stroke="#E4E7EB" stroke-width="1.5"/>
+<rect x="416" y="92" width="368" height="6" rx="3" fill="#2F80ED" stroke="none" stroke-width="1.5"/>
+<rect x="436" y="114" width="93.02" height="21" rx="10.5" fill="#2F80ED" stroke="none" stroke-width="1.5"/>
+<text x="482.51" y="127.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">COMFORTABLE</text>
+<text x="436" y="162" font-size="17" font-weight="800" text-anchor="start" fill="#1F2933">Brautomat32 rig</text>
+<rect x="660" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="744" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="674" y="134" width="70" height="74" rx="6" fill="url(#steel)" stroke="#1F2933" stroke-width="2"/>
+<rect x="678" y="154.72" width="62" height="49.28" rx="3" fill="url(#wort)" fill-opacity="0.85" stroke="none" stroke-width="1.5"/>
+<rect x="668" y="124" width="82" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="695.0" y="114" width="28" height="10" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="682.4" y="142.88" width="53.2" height="45.88" rx="3" fill="url(#perf)" fill-opacity="0.9" stroke="#52606D" stroke-width="1.5"/>
+<line x1="682.4" y1="188.76" x2="735.6" y2="188.76" stroke="#1F2933" stroke-width="2"/>
+<path d="M683.8,199.12 L685.9,205.12 L690.1,193.12 L694.3,205.12 L698.5,193.12 L702.7,205.12 L706.9,193.12 L711.1,205.12 L715.3,193.12 L719.5,205.12 L723.7,193.12 L727.9,205.12 L732.1,193.12 L735.6,199.12" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<rect x="744" y="180" width="22" height="8" rx="2" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="770" cy="184" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="436" y="232" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• DigiBoil + DigiMash + 25 W pump</text>
+<text x="436" y="257" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Red Reaper counterflow chiller</text>
+<text x="436" y="282" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• ESP32 + 40 A SSR in IP65 box</text>
+<text x="436" y="307" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Electrician sign-off required</text>
+<line x1="436" y1="342" x2="764" y2="342" stroke="#E4E7EB" stroke-width="1.5"/>
+<text x="436" y="370" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">Found-price total (VAT incl.)</text>
+<text x="436" y="396" font-size="24" font-weight="800" text-anchor="start" fill="#2F80ED">R 12,817</text>
+<rect x="808" y="92" width="368" height="320" rx="14" fill="#FFFFFF" stroke="#E4E7EB" stroke-width="1.5"/>
+<rect x="808" y="92" width="368" height="6" rx="3" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<rect x="828" y="114" width="99.84" height="21" rx="10.5" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="877.92" y="127.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">FROM SCRATCH</text>
+<text x="828" y="162" font-size="17" font-weight="800" text-anchor="start" fill="#1F2933">Fabricated rig + custom PCB</text>
+<rect x="1052" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="1136" y="147.32" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="1066" y="134" width="70" height="74" rx="6" fill="url(#steel)" stroke="#1F2933" stroke-width="2"/>
+<rect x="1070" y="154.72" width="62" height="49.28" rx="3" fill="url(#wort)" fill-opacity="0.85" stroke="none" stroke-width="1.5"/>
+<rect x="1060" y="124" width="82" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="1087.0" y="114" width="28" height="10" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="1074.4" y="142.88" width="53.2" height="45.88" rx="3" fill="url(#perf)" fill-opacity="0.9" stroke="#52606D" stroke-width="1.5"/>
+<line x1="1074.4" y1="188.76" x2="1127.6000000000001" y2="188.76" stroke="#1F2933" stroke-width="2"/>
+<path d="M1075.8,199.12 L1077.9,205.12 L1082.1,193.12 L1086.3,205.12 L1090.5,193.12 L1094.7,205.12 L1098.9,193.12 L1103.1,205.12 L1107.3,193.12 L1111.5,205.12 L1115.7,193.12 L1119.9,205.12 L1124.1,193.12 L1127.6,199.12" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1136" y="180" width="22" height="8" rx="2" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1162" cy="184" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="828" y="232" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• 35 L kettle, 2.2 kW weldless element</text>
+<text x="828" y="257" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Fabricated perforated malt pipe</text>
+<text x="828" y="282" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Custom ESP32 control PCB</text>
+<text x="828" y="307" font-size="12.5" font-weight="400" text-anchor="start" fill="#52606D">• Design for review — not validated</text>
+<line x1="828" y1="342" x2="1156" y2="342" stroke="#E4E7EB" stroke-width="1.5"/>
+<text x="828" y="370" font-size="11" font-weight="400" text-anchor="start" fill="#52606D">Found-price total (VAT incl.)</text>
+<text x="828" y="396" font-size="24" font-weight="800" text-anchor="start" fill="#B8733A">R 9,462 + quotes</text>
+<text x="1184" y="428" font-size="10" text-anchor="end" fill="#52606D">DevilEars/beer-brewers · DIY all-in-one · design drawing, not a construction certificate · MIT</text>
+</svg>

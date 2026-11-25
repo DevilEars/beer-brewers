@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Comfortable plan wiring overview</title>
+<desc id="d">Logical wiring for the comfortable plan: socket, plug, in-line RCD, IP65 enclosure with fuse, 5 V PSU, ESP32 running Brautomat32, 40 A SSR and pump relay, protective earth to every metal part.</desc>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2933"/></marker>
+<marker id="arrW" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2F80ED"/></marker>
+<marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#E3A21A"/></marker>
+<marker id="arrM" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C53030"/></marker>
+<marker id="arrL" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6B46C1"/></marker>
+<marker id="dimA" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,2 L5,5 L0,8" fill="none" stroke="#52606D" stroke-width="1.2"/></marker>
+<pattern id="perf" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#D9DEE3"/><circle cx="4" cy="4" r="1.4" fill="#8A99A6"/></pattern>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA5B1" stroke-width="1"/></pattern>
+<linearGradient id="steel" x1="0" x2="1"><stop offset="0" stop-color="#B8C2CC"/><stop offset="0.45" stop-color="#EEF1F4"/><stop offset="1" stop-color="#9AA5B1"/></linearGradient>
+<linearGradient id="wort" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6C453"/><stop offset="1" stop-color="#D98E04"/></linearGradient>
+</defs>
+<rect width="1200" height="680" fill="#FBFAF7"/>
+<rect x="0" y="0" width="1200" height="64" rx="0" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="0" y="64" width="1200" height="4" rx="0" fill="#B8733A" stroke="none" stroke-width="1.5"/>
+<text x="24" y="30" font-size="20" font-weight="800" text-anchor="start" fill="#FFFFFF">Comfortable plan · wiring overview (logical)</text>
+<text x="24" y="52" font-size="12" font-weight="400" text-anchor="start" fill="#CBD2D9">Brautomat32 on an ESP32 D1 Mini · 40 A SSR for the 2.4 kW element · relay for the pump · protective earth everywhere</text>
+<rect x="1021.6" y="22" width="154.4" height="21" rx="10.5" fill="#C53030" stroke="none" stroke-width="1.5"/>
+<text x="1098.8" y="35.5" font-size="11" font-weight="700" text-anchor="middle" fill="#FFFFFF" letter-spacing="0.4">ELECTRICIAN SIGN-OFF</text>
+<rect x="30" y="110" width="170" height="70" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="115.0" y="130" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">Distribution board</text>
+<text x="115.0" y="148" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">MCB + ≤30 mA earth leakage</text>
+<text x="115.0" y="163" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">SANS 10142-1</text>
+<rect x="30" y="220" width="170" height="60" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="115.0" y="240" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">SANS 164-1 socket</text>
+<text x="115.0" y="258" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">16 A / 250 V</text>
+<rect x="30" y="320" width="170" height="60" rx="8" fill="#FDE2E1" stroke="#C53030" stroke-width="1.5"/>
+<text x="115.0" y="340" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">In-line RCD</text>
+<text x="115.0" y="358" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">16 A · 30 mA · IP66</text>
+<line x1="115" y1="180" x2="115" y2="218" stroke="#C53030" stroke-width="3" marker-end="url(#arrM)"/>
+<line x1="115" y1="280" x2="115" y2="318" stroke="#C53030" stroke-width="3" marker-end="url(#arrM)"/>
+<rect x="260" y="100" width="560" height="470" rx="14" fill="#FFFFFF" stroke="#1F2933" stroke-width="2.5"/>
+<text x="276" y="124" font-size="12" font-weight="700" text-anchor="start" fill="#1F2933">IP65 enclosure 240 × 160 × 90 mm · M20 glands · mounted away from splash</text>
+<rect x="276" y="140" width="250" height="410" rx="10" fill="#FDE2E1" fill-opacity="0.6" stroke="#C53030" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="288" y="160" font-size="11" font-weight="700" text-anchor="start" fill="#C53030">230 V zone</text>
+<rect x="550" y="140" width="254" height="410" rx="10" fill="#EAE2FB" fill-opacity="0.6" stroke="#6B46C1" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="562" y="160" font-size="11" font-weight="700" text-anchor="start" fill="#6B46C1">Low-voltage zone (5 V / 3.3 V)</text>
+<rect x="296" y="180" width="210" height="52" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="401.0" y="200" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">Isolator / fuse</text>
+<text x="401.0" y="218" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">electrician-specified</text>
+<rect x="296" y="260" width="210" height="52" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="401.0" y="280" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">5 V 3 A PSU</text>
+<text x="401.0" y="298" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">feeds the ESP32</text>
+<rect x="296" y="340" width="210" height="62" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="401.0" y="360" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">40 A SSR + heatsink</text>
+<text x="401.0" y="378" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">switches the element L</text>
+<rect x="296" y="430" width="210" height="52" rx="8" fill="#FFFFFF" stroke="#C53030" stroke-width="1.5"/>
+<text x="401.0" y="450" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">Pump relay</text>
+<text x="401.0" y="468" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">pump only · never the element</text>
+<rect x="580" y="250" width="200" height="96" rx="8" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.5"/>
+<text x="680.0" y="270" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">ESP32 D1 Mini</text>
+<text x="680.0" y="288" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">Brautomat32 firmware</text>
+<text x="680.0" y="303" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">Wi-Fi web UI</text>
+<text x="680.0" y="318" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">D3 = DS18B20 · D8 = buzzer</text>
+<line x1="200" y1="350" x2="296" y2="206" stroke="#C53030" stroke-width="3" marker-end="url(#arrM)"/>
+<line x1="401" y1="232" x2="401" y2="260" stroke="#C53030" stroke-width="2.5" marker-end="url(#arrM)"/>
+<line x1="401" y1="312" x2="401" y2="340" stroke="#C53030" stroke-width="2.5" marker-end="url(#arrM)"/>
+<line x1="401" y1="402" x2="401" y2="430" stroke="#C53030" stroke-width="2.5" marker-end="url(#arrM)"/>
+<path d="M506,286 L578,286" fill="none" stroke="#6B46C1" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrL)"/>
+<text x="542" y="280" font-size="10" font-weight="400" text-anchor="middle" fill="#6B46C1">5 V</text>
+<path d="M580,320 L530,320 L530,370 L508,370" fill="none" stroke="#6B46C1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrL)"/>
+<text x="560" y="362" font-size="10" font-weight="400" text-anchor="start" fill="#6B46C1">GPIO set as</text>
+<text x="560" y="375" font-size="10" font-weight="400" text-anchor="start" fill="#6B46C1">PIN white [Relay]</text>
+<path d="M760,346 L760,456 L508,456" fill="none" stroke="#6B46C1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrL)"/>
+<text x="560" y="448" font-size="10" font-weight="400" text-anchor="start" fill="#6B46C1">GPIO set as pump actuator</text>
+<rect x="580" y="480" width="200" height="52" rx="8" fill="#FFFFFF" stroke="#6B46C1" stroke-width="1.5"/>
+<text x="680.0" y="500" font-size="13" font-weight="700" text-anchor="middle" fill="#1F2933">DS18B20 in 60 cm well</text>
+<text x="680.0" y="518" font-size="11" font-weight="400" text-anchor="middle" fill="#52606D">data on D3 + 4.7 kΩ</text>
+<line x1="720" y1="480" x2="720" y2="348" stroke="#6B46C1" stroke-width="2" marker-end="url(#arrL)"/>
+<rect x="886" y="216.0" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="1070" y="216.0" width="14" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="900" y="180" width="170" height="200" rx="6" fill="url(#steel)" stroke="#1F2933" stroke-width="2"/>
+<rect x="904" y="236.0" width="162" height="140.0" rx="3" fill="url(#wort)" fill-opacity="0.85" stroke="none" stroke-width="1.5"/>
+<rect x="894" y="170" width="182" height="10" rx="3" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<rect x="971.0" y="160" width="28" height="10" rx="3" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<rect x="920.4" y="204.0" width="129.2" height="124.0" rx="3" fill="url(#perf)" fill-opacity="0.9" stroke="#52606D" stroke-width="1.5"/>
+<line x1="920.4" y1="328.0" x2="1049.6" y2="328.0" stroke="#1F2933" stroke-width="2"/>
+<path d="M923.8,356.0 L928.9,362.0 L939.1,350.0 L949.3,362.0 L959.5,350.0 L969.7,362.0 L979.9,350.0 L990.1,362.0 L1000.3,350.0 L1010.5,362.0 L1020.7,350.0 L1030.9,362.0 L1041.1,350.0 L1049.6,356.0" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1070" y="352" width="22" height="8" rx="2" fill="#8A99A6" stroke="#1F2933" stroke-width="1.5"/>
+<circle cx="1096" cy="356" r="6" fill="#1F2933" stroke="none" stroke-width="1.5"/>
+<text x="985" y="410" font-size="12" font-weight="700" text-anchor="middle" fill="#1F2933">DigiBoil 2400 W + DigiMash</text>
+<path d="M506,385 L532,385 L532,584 L840,584 L840,352 L915,352" fill="none" stroke="#C53030" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrM)"/>
+<text x="848" y="440" font-size="11" font-weight="700" text-anchor="start" fill="#C53030">element L</text>
+<text x="848" y="454" font-size="10" font-weight="400" text-anchor="start" fill="#C53030">≈10.4 A at 230 V</text>
+<circle cx="985" cy="500" r="24" fill="#DCEBFD" stroke="#1F2933" stroke-width="2"/>
+<text x="985" y="505" font-size="14" font-weight="800" text-anchor="middle" fill="#2F80ED">P</text>
+<text x="985" y="540" font-size="12" font-weight="700" text-anchor="middle" fill="#1F2933">25 W pump</text>
+<path d="M506,462 L542,462 L542,594 L860,594 L860,500 L959,500" fill="none" stroke="#C53030" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrM)"/>
+<path d="M40,610 L1160,610" fill="none" stroke="#2F855A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40,610 L1160,610" fill="none" stroke="#D69E2E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 10"/>
+<text x="44" y="634" font-size="12" font-weight="700" text-anchor="start" fill="#2F855A">Protective earth (green/yellow) — continuous to plug pin, enclosure, kettle body, element earth and pump</text>
+<line x1="115" y1="610" x2="115" y2="382" stroke="#2F855A" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="540.0" y1="610" x2="540.0" y2="570" stroke="#2F855A" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="985" y1="610" x2="985" y2="526" stroke="#2F855A" stroke-width="2" stroke-dasharray="4 3"/>
+<line x1="1080" y1="610" x2="1080" y2="380" stroke="#2F855A" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1184" y="668" font-size="10" text-anchor="end" fill="#52606D">DevilEars/beer-brewers · DIY all-in-one · design drawing, not a construction certificate · MIT</text>
+</svg>
